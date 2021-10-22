@@ -4,7 +4,7 @@
 - 💙 My preferred programming/scripting language are Python and Bash, but I also know Tcl/Expect and PHP.
 - ⚡ My public repositories get mirrored every 8 hours from my private [Gitea instance](https://git.pyas.de).
 - 🌱 I’m currently learning Kubernetes.
-- 👯 I’m looking to collaborate on any Python related project.
+- 👯 I’m looking to collaborate on any Python related project to learn more about my favourite programming language!
 
 
 [![](https://img.shields.io/badge/Email-kim%40drechsel.xyz-blue?style=flat-square&logo=appveyor)](mailto:kim@drechsel.xyz)
