@@ -9,7 +9,7 @@
 
 [![](https://img.shields.io/badge/Email-kim%40drechsel.xyz-blue?style=flat-square&logo=appveyor)](mailto:kim@drechsel.xyz)
 [![](https://img.shields.io/badge/Blog-drechsel.xyz-blue?style=flat-square&logo=appveyor)](https://drechsel.xyz)
-[![](https://img.shields.io/badge/Xing-Find%20me%20on%20XING-green?style=flat-square&logo=appveyor)](https://www.xing.com/profile/KimOliver_Drechsel)
+[![](https://img.shields.io/badge/Xing-Find%20me%20on%20XING-blue?style=flat-square&logo=appveyor)](https://www.xing.com/profile/KimOliver_Drechsel)
 
 <!--
 **kimdre/kimdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
