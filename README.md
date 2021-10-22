@@ -1,6 +1,6 @@
 ### Hi, I'm Kim 👋
 
-- 🤓 I'm a Linux and cloud admin and also mountainbike enthusiast. 
+- 🤓 I'm a Linux and cloud admin and also mountainbike enthusiast. 🚵‍♂️
 - 💙 My preferred programming/scripting language are Python and Bash, but I also know Tcl/Expect and PHP.
 - ⚡ My public repositories get mirrored every 8 hours from my private [Gitea instance](https://git.pyas.de).
 - 🌱 I’m currently learning Kubernetes.
