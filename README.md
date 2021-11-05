@@ -6,10 +6,14 @@
 - 👯 I’m looking to collaborate on any Python related project to learn more about my favourite programming language!
 - ⚡ My public repositories get mirrored every 8 hours from my private [Gitea instance](https://git.pyas.de).
 
+<div align="center">
+  
 [![](https://img.shields.io/badge/Email-kim%40drechsel.xyz-blue?style=flat-square&logo=appveyor)](mailto:kim@drechsel.xyz)
 [![](https://img.shields.io/badge/Blog-drechsel.xyz-blue?style=flat-square&logo=appveyor)](https://drechsel.xyz)
 [![](https://img.shields.io/badge/Xing-Find%20me%20on%20XING-blue?style=flat-square&logo=appveyor)](https://www.xing.com/profile/KimOliver_Drechsel)
-
+  
+</div>
+  
 <!--
 **kimdre/kimdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
