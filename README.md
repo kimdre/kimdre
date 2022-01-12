@@ -7,9 +7,9 @@
 
 <div align="center">
   
-[![](https://img.shields.io/badge/Email-kim%40drechsel.xyz-blue?style=flat-square&logo=appveyor)](mailto:kim@drechsel.xyz)
-[![](https://img.shields.io/badge/Blog-drechsel.xyz-blue?style=flat-square&logo=appveyor)](https://drechsel.xyz)
-[![](https://img.shields.io/badge/Xing-Find%20me%20on%20XING-blue?style=flat-square&logo=appveyor)](https://www.xing.com/profile/KimOliver_Drechsel)
+[![](https://img.shields.io/badge/email-kim%40drechsel.xyz-blue?logo=appveyor)](mailto:kim@drechsel.xyz)
+[![](https://img.shields.io/badge/blog-drechsel.xyz-blue?logo=appveyor)](https://drechsel.xyz)
+[![](https://img.shields.io/badge/xing-find%20me%20on%20XING-blue?logo=appveyor)](https://www.xing.com/profile/KimOliver_Drechsel)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kimdre.kimdre)
 
 </div>
