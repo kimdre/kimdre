@@ -2,7 +2,7 @@
 
 - 🤓 I'm a Linux admin and DevOps engineer as well as a mountainbike enthusiast from Nuremberg, Germany. 🚵‍♂️
 - 💙 My preferred programming/scripting languages are Python and Shell/Bash, but I also know Tcl/Expect and PHP.
-- 🍣 Founder of [Maki IT](https://github.com/Maki-IT).
+- 🍣 Founder of the german hosting and IT service provider [Maki IT](https://github.com/Maki-IT).
 - ⚡ My public repositories get mirrored every 8 hours from my private [Gitea instance](https://git.pyas.de).
 
 <div align="center">
